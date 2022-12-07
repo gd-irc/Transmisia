@@ -1,0 +1,4 @@
+! SPDX-License-Identifier: CC-BY-SA-4.0
+
+! literally the whole reason GD-IRC Certification exists.
+||slashnet.org^
